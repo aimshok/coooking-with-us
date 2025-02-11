@@ -1,0 +1,72 @@
+/* Center the form on the page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Style the form container */
+#verificationForm {
+    background: #ffffff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Style the input field */
+#verificationCode {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+#verificationCode:focus {
+    border-color: #6c63ff;
+}
+
+/* Style the submit button */
+button[type="submit"] {
+    background: #6c63ff;
+    color: #ffffff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #5848c2;
+}
+
+/* Style the message paragraph */
+#message {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #ff4d4d; /* Default color for error messages */
+}
+
+/* Add responsive design */
+@media (max-width: 500px) {
+    #verificationForm {
+        padding: 15px 20px;
+    }
+
+    #verificationCode,
+    button[type="submit"] {
+        font-size: 14px;
+    }
+}

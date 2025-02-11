@@ -1,0 +1,247 @@
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T14:07:52+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T14:07:52+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T14:10:25+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T14:10:25+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T14:13:30+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T14:13:30+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T14:15:20+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T14:15:20+05:00"}
+{"action":"registration","level":"info","msg":"success","time":"2025-02-02T14:40:41+05:00","user_id":"000000000000000000000000"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T14:40:53+05:00","user_id":"679f3d9899505296bd4d065a"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T14:42:29+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T14:42:29+05:00"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-02T14:43:27+05:00","user_id":"679f3d9899505296bd4d065a"}
+{"level":"error","msg":"Failed to send verification email: 535 5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 2adb3069b0e04-543ebeb0a4esm922975e87.114 - gsmtp","time":"2025-02-02T14:44:03+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T14:45:07+05:00","user_id":"679f3d9899505296bd4d065a"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T14:46:22+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T14:46:22+05:00"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-02T14:48:12+05:00","user_id":"679f3d9899505296bd4d065a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T14:48:16+05:00","user_id":"679f3d9899505296bd4d065a"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T15:02:11+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T15:02:11+05:00"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-02T15:06:28+05:00","user_id":"679f3d9899505296bd4d065a"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T15:07:30+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T15:07:30+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T15:08:31+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T15:08:31+05:00"}
+{"action":"register","level":"info","msg":"fail","time":"2025-02-02T15:12:26+05:00","user_id":"679f3d9899505296bd4d065a"}
+{"level":"error","msg":"Failed to send verification email: 535 5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 2adb3069b0e04-543ebeb7f20sm933720e87.164 - gsmtp","time":"2025-02-02T15:12:47+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T15:13:21+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T15:13:21+05:00"}
+{"level":"error","msg":"Failed to send verification email: 535 5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 38308e7fff4ca-307a309b6e3sm11053671fa.56 - gsmtp","time":"2025-02-02T15:23:17+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T15:30:04+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T15:30:04+05:00"}
+{"action":"registration","level":"info","msg":"success","time":"2025-02-02T15:30:57+05:00","user_id":"000000000000000000000000"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T15:31:13+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-02T15:31:18+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T15:31:40+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T15:32:39+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T15:32:39+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T16:32:33+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T16:32:33+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T16:33:24+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T16:36:53+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T16:36:53+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T17:34:36+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T19:29:38+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T19:29:38+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T19:30:53+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-02T19:36:54+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-02T19:43:29+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-02T19:55:02+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-02T19:55:02+05:00"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-02T20:13:42+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T09:32:06+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T09:32:06+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T09:42:52+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-03T09:43:18+05:00"}
+{"level":"error","msg":"Error saving to database: cannot marshal type funcs.Recipe to a BSON Document: struct funcs.Recipe has duplicated key name","time":"2025-02-03T09:43:18+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-03T09:44:14+05:00"}
+{"level":"error","msg":"Error saving to database: cannot marshal type funcs.Recipe to a BSON Document: struct funcs.Recipe has duplicated key name","time":"2025-02-03T09:44:14+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T09:48:44+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T09:48:44+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T10:43:58+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-03T10:44:29+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-03T10:44:29+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-03T10:44:29+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-03T10:44:31+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-03T10:44:31+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-03T10:44:31+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T10:45:08+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T10:45:08+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T10:48:10+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-03T10:48:30+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-03T10:48:30+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a058aef22e1e914a6d7b8b\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"level\",\"description\": \"Must be one of 'beginner', 'amateur', or 'master'.\",\"details\": [{\"operatorName\": \"enum\",\"specifiedAs\": {\"enum\": [\"beginner\",\"amateur\",\"master\"]},\"reason\": \"value was not found in enum\",\"consideredValue\": \"\"}]}]}]}}]","time":"2025-02-03T10:48:30+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T10:50:23+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T10:50:23+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T11:05:23+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-03T11:05:47+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-03T11:05:47+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a05cbb2448a598ffc9e0b5\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"level\",\"description\": \"Must be one of 'beginner', 'amateur', or 'master'.\",\"details\": [{\"operatorName\": \"enum\",\"specifiedAs\": {\"enum\": [\"beginner\",\"amateur\",\"master\"]},\"reason\": \"value was not found in enum\",\"consideredValue\": \"advanced\"}]}]}]}}]","time":"2025-02-03T11:05:47+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T11:06:59+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T11:08:19+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T11:08:19+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T15:05:25+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-03T15:06:31+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T15:07:12+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T15:26:30+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T15:26:30+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T15:48:54+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T15:48:54+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T16:08:06+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T16:08:06+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T16:08:32+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T16:10:37+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T16:10:37+05:00"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-03T16:16:42+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T16:17:01+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T16:18:24+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T16:18:24+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-03T16:53:58+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-03T16:56:34+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-03T16:56:34+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T00:45:36+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T00:45:58+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T00:52:53+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T00:52:53+05:00"}
+{"action":"registration","level":"info","msg":"success","time":"2025-02-04T00:53:39+05:00","user_id":"000000000000000000000000"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T00:53:46+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T00:58:47+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T00:58:47+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T00:59:10+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:00:54+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:00:54+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:01:11+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:03:41+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:03:41+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:04:06+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:06:09+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:06:09+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:08:39+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:10:56+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:10:56+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:11:09+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:12:11+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:14:19+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:14:19+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:14:36+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:17:46+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:17:46+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:18:07+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:23:12+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:23:12+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:23:36+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:26:07+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:26:07+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:26:17+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:29:36+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:29:36+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:30:06+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:32:06+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:32:55+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-04T01:33:02+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:33:08+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:34:50+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:37:35+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:37:35+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:37:45+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:38:01+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:38:01+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:39:02+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:39:02+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:39:22+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:39:43+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:39:43+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:40:09+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:40:09+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T01:42:57+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T01:42:57+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:43:14+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:43:35+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:43:35+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:43:35+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:43:35+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a12a7726eaf597d9cbcb57\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"name\",\"description\": \"Must be a string with at least 2 characters.\",\"details\": [{\"operatorName\": \"minLength\",\"specifiedAs\": {\"minLength\": {\"$numberInt\":\"2\"}},\"reason\": \"specified string length was not satisfied\",\"consideredValue\": \"0\"}]}]}]}}]","time":"2025-02-04T01:43:35+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a12a7726eaf597d9cbcb58\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"name\",\"description\": \"Must be a string with at least 2 characters.\",\"details\": [{\"operatorName\": \"minLength\",\"specifiedAs\": {\"minLength\": {\"$numberInt\":\"2\"}},\"reason\": \"specified string length was not satisfied\",\"consideredValue\": \"0\"}]}]}]}}]","time":"2025-02-04T01:43:35+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:44:17+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:44:17+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:44:17+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:44:17+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a12aa126eaf597d9cbcb59\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"desc\",\"description\": \"Must be a string with at least 10 characters.\",\"details\": [{\"operatorName\": \"minLength\",\"specifiedAs\": {\"minLength\": {\"$numberInt\":\"10\"}},\"reason\": \"specified string length was not satisfied\",\"consideredValue\": \"32162613\"}]}]}]}}]","time":"2025-02-04T01:44:18+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a12aa126eaf597d9cbcb5a\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"desc\",\"description\": \"Must be a string with at least 10 characters.\",\"details\": [{\"operatorName\": \"minLength\",\"specifiedAs\": {\"minLength\": {\"$numberInt\":\"10\"}},\"reason\": \"specified string length was not satisfied\",\"consideredValue\": \"32162613\"}]}]}]}}]","time":"2025-02-04T01:44:18+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:47:47+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:48:05+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:48:05+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:48:05+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:48:05+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a12b8526eaf597d9cbcb5c\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"name\",\"description\": \"Must be a string with at least 2 characters.\",\"details\": [{\"operatorName\": \"minLength\",\"specifiedAs\": {\"minLength\": {\"$numberInt\":\"2\"}},\"reason\": \"specified string length was not satisfied\",\"consideredValue\": \"1\"}]}]}]}}]","time":"2025-02-04T01:48:05+05:00"}
+{"level":"error","msg":"Error saving to database: write exception: write errors: [Document failed validation: {\"failingDocumentId\": {\"$oid\":\"67a12b8526eaf597d9cbcb5b\"},\"details\": {\"operatorName\": \"$jsonSchema\",\"schemaRulesNotSatisfied\": [{\"operatorName\": \"properties\",\"propertiesNotSatisfied\": [{\"propertyName\": \"name\",\"description\": \"Must be a string with at least 2 characters.\",\"details\": [{\"operatorName\": \"minLength\",\"specifiedAs\": {\"minLength\": {\"$numberInt\":\"2\"}},\"reason\": \"specified string length was not satisfied\",\"consideredValue\": \"1\"}]}]}]}}]","time":"2025-02-04T01:48:05+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T01:52:20+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:52:44+05:00"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T01:52:44+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:52:44+05:00"}
+{"level":"info","msg":"Inserting recipe into database...","time":"2025-02-04T01:52:44+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T02:01:36+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T02:01:36+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T02:01:48+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T02:02:53+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T02:02:53+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T02:03:10+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T02:03:57+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T02:03:57+05:00"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-04T02:04:21+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T02:10:35+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-04T02:10:45+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T02:11:13+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-04T02:13:25+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T02:23:46+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T02:23:46+05:00"}
+{"level":"info","msg":"Generated OAuth URL: https://accounts.google.com/o/oauth2/auth?access_type=offline\u0026client_id=286158085516-99667vsqtlboonqccqdrnm8afk5lsfgo.apps.googleusercontent.com\u0026redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Foauth%2Fcallback\u0026response_type=code\u0026scope=email+profile\u0026state=hello+world","time":"2025-02-04T02:24:02+05:00"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T02:35:16+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T02:35:16+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T03:00:27+05:00","user_id":"679f4961bcca09b1aabeca04"}
+{"level":"info","msg":"Graceful shutdown initiated","time":"2025-02-04T03:04:39+05:00"}
+{"level":"info","msg":"Server gracefully stopped","time":"2025-02-04T03:04:39+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:28:48+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"level":"info","msg":"addRecipe Handler ","time":"2025-02-04T10:36:39+05:00"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:41:03+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-04T10:42:28+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:42:43+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"Logout","level":"info","msg":"success","time":"2025-02-04T10:42:52+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:44:50+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:45:13+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:46:08+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:47:30+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:48:29+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-04T10:54:10+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-05T10:11:55+05:00","user_id":"67a11ec3c425e1c577934428"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T14:50:08+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T14:50:49+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T14:51:02+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T14:51:37+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T14:52:42+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T14:53:01+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T14:53:27+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:03:11+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:04:25+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:09:17+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:10:47+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:15:04+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:15:44+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:17:03+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:20:55+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:27:56+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:29:16+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:30:13+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:31:44+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:32:13+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:44:57+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:58:19+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T15:58:37+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T16:10:29+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T16:10:58+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T16:11:36+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T16:12:39+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T16:15:42+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
+{"action":"login","level":"info","msg":"success","time":"2025-02-11T16:16:28+05:00","user_id":"67a9c27b4a7a49e2b07ae41a"}
